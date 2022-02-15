@@ -1,0 +1,66 @@
+C:\C#\vs_SQL_introd\App Academia\Academia\bin\Debug\Academia.exe.config
+C:\C#\vs_SQL_introd\App Academia\Academia\bin\Debug\Academia.exe
+C:\C#\vs_SQL_introd\App Academia\Academia\bin\Debug\Academia.pdb
+C:\C#\vs_SQL_introd\App Academia\Academia\bin\Debug\EntityFramework.dll
+C:\C#\vs_SQL_introd\App Academia\Academia\bin\Debug\EntityFramework.SqlServer.dll
+C:\C#\vs_SQL_introd\App Academia\Academia\bin\Debug\System.Data.SQLite.dll
+C:\C#\vs_SQL_introd\App Academia\Academia\bin\Debug\System.Data.SQLite.EF6.dll
+C:\C#\vs_SQL_introd\App Academia\Academia\bin\Debug\System.Data.SQLite.Linq.dll
+C:\C#\vs_SQL_introd\App Academia\Academia\bin\Debug\EntityFramework.xml
+C:\C#\vs_SQL_introd\App Academia\Academia\bin\Debug\EntityFramework.SqlServer.xml
+C:\C#\vs_SQL_introd\App Academia\Academia\bin\Debug\System.Data.SQLite.xml
+C:\C#\vs_SQL_introd\App Academia\Academia\obj\Debug\Academia.csproj.SuggestedBindingRedirects.cache
+C:\C#\vs_SQL_introd\App Academia\Academia\obj\Debug\Academia.Properties.Resources.resources
+C:\C#\vs_SQL_introd\App Academia\Academia\obj\Debug\Academia.csproj.GenerateResource.cache
+C:\C#\vs_SQL_introd\App Academia\Academia\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+C:\C#\vs_SQL_introd\App Academia\Academia\obj\Debug\Academia.csproj.CopyComplete
+C:\C#\vs_SQL_introd\App Academia\Academia\obj\Debug\Academia.exe
+C:\C#\vs_SQL_introd\App Academia\Academia\obj\Debug\Academia.pdb
+C:\C#\vs_SQL_introd\App Academia\Academia\obj\Debug\Academia.F_Login.resources
+C:\C#\vs_SQL_introd\App Academia\Academia\obj\Debug\Academia.F_NovoAdm.resources
+C:\C#\vs_SQL_introd\App Academia\Academia\obj\Debug\Academia.F_GestaoAdms.resources
+C:\C#\vs_SQL_introd\App Academia\Academia\obj\Debug\Academia.F_Horarios.resources
+C:\C#\vs_SQL_introd\App Academia\Academia\obj\Debug\Academia.F_GestaoProf.resources
+C:\C#\vs_SQL_introd\App Academia\Academia\obj\Debug\Academia.F_Principal.resources
+C:\C#\vs_SQL_introd\App Academia\Academia\obj\Debug\Academia.F_Turmas.resources
+C:\C#\vs_SQL_introd\App Academia\Academia\bin\Debug\BouncyCastle.Crypto.dll
+C:\C#\vs_SQL_introd\App Academia\Academia\bin\Debug\itextsharp.dll
+C:\C#\vs_SQL_introd\App Academia\Academia\bin\Debug\itextsharp.xml
+C:\C#\vs_SQL_introd\App Academia\Academia\obj\Debug\Academia.F_NovoAluno.resources
+C:\C#\vs_SQL_introd\App Academia\Academia\obj\Debug\Academia.F_GestaoAlunos.resources
+C:\C#\vs_SQL_introd\App Academia\Academia\obj\Debug\Academia.F_SelecionarTurma_Novo.resources
+C:\C#\vs_SQL_introd\App Academia\Academia\obj\Debug\Academia.F_NovoProf.resources
+C:\C#\vs_SQL_introd\App Academia - Copia\Academia\bin\Debug\Academia.exe.config
+C:\C#\vs_SQL_introd\App Academia - Copia\Academia\bin\Debug\Academia.exe
+C:\C#\vs_SQL_introd\App Academia - Copia\Academia\bin\Debug\Academia.pdb
+C:\C#\vs_SQL_introd\App Academia - Copia\Academia\bin\Debug\BouncyCastle.Crypto.dll
+C:\C#\vs_SQL_introd\App Academia - Copia\Academia\bin\Debug\EntityFramework.dll
+C:\C#\vs_SQL_introd\App Academia - Copia\Academia\bin\Debug\EntityFramework.SqlServer.dll
+C:\C#\vs_SQL_introd\App Academia - Copia\Academia\bin\Debug\itextsharp.dll
+C:\C#\vs_SQL_introd\App Academia - Copia\Academia\bin\Debug\System.Data.SQLite.dll
+C:\C#\vs_SQL_introd\App Academia - Copia\Academia\bin\Debug\System.Data.SQLite.EF6.dll
+C:\C#\vs_SQL_introd\App Academia - Copia\Academia\bin\Debug\System.Data.SQLite.Linq.dll
+C:\C#\vs_SQL_introd\App Academia - Copia\Academia\bin\Debug\EntityFramework.xml
+C:\C#\vs_SQL_introd\App Academia - Copia\Academia\bin\Debug\EntityFramework.SqlServer.xml
+C:\C#\vs_SQL_introd\App Academia - Copia\Academia\bin\Debug\itextsharp.xml
+C:\C#\vs_SQL_introd\App Academia - Copia\Academia\bin\Debug\System.Data.SQLite.xml
+C:\C#\vs_SQL_introd\App Academia - Copia\Academia\obj\Debug\Academia.csproj.AssemblyReference.cache
+C:\C#\vs_SQL_introd\App Academia - Copia\Academia\obj\Debug\Academia.csproj.SuggestedBindingRedirects.cache
+C:\C#\vs_SQL_introd\App Academia - Copia\Academia\obj\Debug\Academia.F_GestaoAlunos.resources
+C:\C#\vs_SQL_introd\App Academia - Copia\Academia\obj\Debug\Academia.F_GestaoProf.resources
+C:\C#\vs_SQL_introd\App Academia - Copia\Academia\obj\Debug\Academia.F_NovoAluno.resources
+C:\C#\vs_SQL_introd\App Academia - Copia\Academia\obj\Debug\Academia.F_NovoProf.resources
+C:\C#\vs_SQL_introd\App Academia - Copia\Academia\obj\Debug\Academia.F_Principal.resources
+C:\C#\vs_SQL_introd\App Academia - Copia\Academia\obj\Debug\Academia.F_GestaoAdms.resources
+C:\C#\vs_SQL_introd\App Academia - Copia\Academia\obj\Debug\Academia.F_Horarios.resources
+C:\C#\vs_SQL_introd\App Academia - Copia\Academia\obj\Debug\Academia.F_Login.resources
+C:\C#\vs_SQL_introd\App Academia - Copia\Academia\obj\Debug\Academia.F_NovoAdm.resources
+C:\C#\vs_SQL_introd\App Academia - Copia\Academia\obj\Debug\Academia.F_SelecionarTurma_Novo.resources
+C:\C#\vs_SQL_introd\App Academia - Copia\Academia\obj\Debug\Academia.F_Turmas.resources
+C:\C#\vs_SQL_introd\App Academia - Copia\Academia\obj\Debug\Academia.Properties.Resources.resources
+C:\C#\vs_SQL_introd\App Academia - Copia\Academia\obj\Debug\Academia.csproj.GenerateResource.cache
+C:\C#\vs_SQL_introd\App Academia - Copia\Academia\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+C:\C#\vs_SQL_introd\App Academia - Copia\Academia\obj\Debug\Academia.csproj.CopyComplete
+C:\C#\vs_SQL_introd\App Academia - Copia\Academia\obj\Debug\Academia.exe
+C:\C#\vs_SQL_introd\App Academia - Copia\Academia\obj\Debug\Academia.pdb
+C:\C#\vs_SQL_introd\App Academia\Academia\obj\Debug\Academia.csproj.AssemblyReference.cache
